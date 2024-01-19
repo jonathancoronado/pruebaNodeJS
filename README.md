@@ -8,7 +8,7 @@ Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu sistema.
 ## Descarga
 
 Clona el repositorio:
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/jonathancoronado/pruebaNodeJS
 
 ## Instala
 Instala las dependencias:
